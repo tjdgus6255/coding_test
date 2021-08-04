@@ -9,5 +9,5 @@ while True:
   if InputN == Ncycle:
     break
   N = Ncycle
-# 
+
 print(count)
